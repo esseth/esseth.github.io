@@ -1,0 +1,39 @@
+body {
+    
+    font-family: 'Kaushan Script', cursive;
+    background-image: url(bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    margin:0;
+    padding:0;
+}
+
+
+
+#titleBar {
+    
+    width:100%;
+    height:36px;
+    border-bottom: 3px solid black;
+    text-align:center;
+}
+
+#menuBar{
+    
+    border: 5px solid rgba(21, 6, 88, .5);
+    margin: 30px;
+}
+
+ul li {
+    
+    list-style: none;
+    display: inline-block;
+    padding-left: 10%;
+}
+
+a:visited {
+    
+    color:red;
+}

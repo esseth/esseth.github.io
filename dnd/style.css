@@ -1,0 +1,27 @@
+body, html{
+    
+    width:100%;
+    height:100%;
+    text-align: center;
+}
+
+.mainContainer {
+    
+    background-image: url(../bg.jpg);
+    background-position: center;
+    background-size: cover;
+    height:100%;
+
+}
+
+h1 {
+    
+    background-color: aliceblue;
+}
+
+page {
+
+    display: flex;
+    align-items: center;
+    align-content: center;
+}
